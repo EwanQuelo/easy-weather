@@ -45,7 +45,7 @@ async function checkWeather(city) {
             weatherIcon.src = "images/drizzle.png";
             backgroundWeather = "#aec6d4";
         } else if (data.weather[0].main == "Mist") {
-            weatherIcon.src = "images/Mist.png";
+            weatherIcon.src = "images/mist.png";
             backgroundWeather = "#aec6d4";
         }
 
