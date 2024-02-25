@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Easy Weather</title>
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+<body>
+    
+    <div class="rectangle">
+        <div class="search">
+            <input type="text" placeholder="Entrer une ville" spellcheck="false">
+            <button><img src="./images/search.png"></button>
+        </div>
+        <div class="error">
+            <p>Ville introuvable !</p>
+        </div>
+        <div class="weather">
+            <img src="./images/rain.png" class="weather-icon">
+            <div>
+                <h1 class="temp">22°C</h1>
+                <h3 class="ressenti">Ressenti: 22°C</h1>
+            </div>
+            
+            <h2 class="city">Nantes</h2>
+            <div class="details1">
+                <div class="col1">
+                    <div>
+                        <p class="minimum">Min :</p>
+                    </div>
+                </div>
+                <div class="col1">
+                    <div>
+                        <p class="maximum">Max :</p>
+                    </div>
+                </div>
+            </div>
+            <div class="detailsDesc">
+                <p class="description">Descriptio ndesdoa z azd</p>
+            </div>
+            <div class="details">
+                <div class="col">
+                    <img src="./images/humidity.png">
+                    <div>
+                        <p class="humidity">50%</p>
+                        <p>Humidité</p>
+                    </div>
+                </div>
+                <div class="col">
+                    <img src="./images/wind.png">
+                    <div>
+                        <p class="wind">15 km/h</p>
+                        <p>Vitesse du vent</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
