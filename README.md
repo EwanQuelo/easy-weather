@@ -1,5 +1,10 @@
 # easy-weather
-![weatehr-app-overview (1)](https://github.com/EwanQuelo/easy-weather/assets/156847481/bf73c728-3a98-4d2b-aed0-f5156dbd8d2b)
+> [!TIP]
+> Accessible via ce lien [ewanquelo/weather](https://ewanquelo.github.io/easy-weather/)
+
+| Description | Vue d'ensemble  |
+| ------------- | ------------- |
+|Site météo simple. | ![weatehr-app-overview (1)](https://github.com/EwanQuelo/easy-weather/assets/156847481/bf73c728-3a98-4d2b-aed0-f5156dbd8d2b) |
 ## Différentes parties
 Onglet de recherche
 | Description :  | Exemple : |
