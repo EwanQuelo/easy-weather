@@ -12,7 +12,7 @@ body {
 .rectangle {
     width: 90%;
     max-width: 470px;
-    background: linear-gradient(135deg, #1100fd42, #3f2f69 );
+    background: linear-gradient(135deg, #1100fdbb, #290092 );
     color: #fff;
     margin: 100px auto;
     border-radius: 20px;
@@ -33,11 +33,11 @@ body {
     outline: 0;
     background: #ebfffc;
     color: #555;
-    padding: 10px 25px;
+    padding: 10px 20px;
     height: 60px;
     border-radius: 30px;
     flex: 1;
-    margin-right: 16px;
+    margin-right: 12px;
     font-size: 18px;
 }
 .search button {
@@ -45,8 +45,8 @@ body {
     outline: 0;
     background: #ebfffc;
     border-radius: 50%;
-    width: 60px;
-    height: 60px;
+    width: 3rem;
+    height: 3rem;
     cursor: pointer;
 }
 .search button img {
@@ -110,7 +110,7 @@ body {
 .error {
     text-align: center;
     margin-top: 5px;
-    color: rgb(0, 0, 0);
+    color: rgb(231, 231, 231);
     font-weight: 500;
     font-size: 16px;
     display: none;
