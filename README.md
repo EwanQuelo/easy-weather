@@ -1,4 +1,6 @@
 # easy-weather
+![weatehr-app-overview (1)](https://github.com/EwanQuelo/easy-weather/assets/156847481/bf73c728-3a98-4d2b-aed0-f5156dbd8d2b)
+## Différentes parties
 ## Fonctionnalités
 Les différentes informations sont affichés :
 - Températures
